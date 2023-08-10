@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 2023班</title>
-    <link>https://tang-jay.github.io/2023class/categories/</link>
+    <link>https://tang-jay.github.io/categories/</link>
     <description>Recent content in Categories on 2023班</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tang-jay.github.io/2023class/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tang-jay.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生活志</title>
-      <link>https://tang-jay.github.io/2023class/categories/%E7%94%9F%E6%B4%BB%E5%BF%97/</link>
+      <link>https://tang-jay.github.io/categories/%E7%94%9F%E6%B4%BB%E5%BF%97/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/2023class/categories/%E7%94%9F%E6%B4%BB%E5%BF%97/</guid>
+      <guid>https://tang-jay.github.io/categories/%E7%94%9F%E6%B4%BB%E5%BF%97/</guid>
       <description></description>
     </item>
     
     <item>
       <title>人物志</title>
-      <link>https://tang-jay.github.io/2023class/categories/%E4%BA%BA%E7%89%A9%E5%BF%97/</link>
+      <link>https://tang-jay.github.io/categories/%E4%BA%BA%E7%89%A9%E5%BF%97/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/2023class/categories/%E4%BA%BA%E7%89%A9%E5%BF%97/</guid>
+      <guid>https://tang-jay.github.io/categories/%E4%BA%BA%E7%89%A9%E5%BF%97/</guid>
       <description></description>
     </item>
     
     <item>
       <title>学习志</title>
-      <link>https://tang-jay.github.io/2023class/categories/%E5%AD%A6%E4%B9%A0%E5%BF%97/</link>
+      <link>https://tang-jay.github.io/categories/%E5%AD%A6%E4%B9%A0%E5%BF%97/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/2023class/categories/%E5%AD%A6%E4%B9%A0%E5%BF%97/</guid>
+      <guid>https://tang-jay.github.io/categories/%E5%AD%A6%E4%B9%A0%E5%BF%97/</guid>
       <description></description>
     </item>
     
