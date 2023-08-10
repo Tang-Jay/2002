@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活志 on 2023班</title>
+    <link>/categories/%E7%94%9F%E6%B4%BB%E5%BF%97/</link>
+    <description>Recent content in 生活志 on 2023班</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/%E7%94%9F%E6%B4%BB%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typora&#43;Github&#43;Picgo</title>
+      <link>/post/2022/08/02/picgo/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022/08/02/picgo/</guid>
+      <description>记录用图成功！ 网络路径 由于部分浏览器无法访问raw.githubusercontent.com，从而看不到图片有显示(比如，我在我的电脑看得</description>
+    </item>
+    
+    <item>
+      <title>影单</title>
+      <link>/post/2022/07/13/films/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022/07/13/films/</guid>
+      <description>电影 《阿甘正传》✔️ 《我不是药神》✔️ 《让子弹飞》 《肖申克的救赎》✔️ 《阳光灿烂的日子》✔️ 王朔 《三傻大闹宝莱坞》✔️ 《美丽人生》✔️ 《楚门</description>
+    </item>
+    
+  </channel>
+</rss>

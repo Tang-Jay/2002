@@ -1,0 +1,49 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "2023班"
+theme: "hugo-xmag"
+publishDir: "docs"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: "↩"
+hasCJKLanguage: true
+enableEmoji: true
+paginate: 6
+
+permalinks:
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: 主页
+      url: /
+      weight: 1
+    - name: 关于
+      url: /about/
+      weight: 2
+    - name: 目录
+      url: /categories/
+      weight: 3
+    - name: 标签
+      url: /tags/
+      weight: 4
+    - name: 订阅
+      url: /index.xml
+
+params:
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; 唐老师 18177330074"
+  summary_length: 300
+  text:
+    back: "&larr; 返回首页"
+    edit: "编辑此页 &rarr;"
+    truncated: "&hellip;"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true

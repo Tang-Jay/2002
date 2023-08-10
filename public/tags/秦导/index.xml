@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>秦导 on 2023班</title>
+    <link>/tags/%E7%A7%A6%E5%AF%BC/</link>
+    <description>Recent content in 秦导 on 2023班</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E7%A7%A6%E5%AF%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇</title>
+      <link>/post/2022/07/18/tutor/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022/07/18/tutor/</guid>
+      <description>你快乐吗？</description>
+    </item>
+    
+    <item>
+      <title>秦导语录</title>
+      <link>/post/2022/07/13/tutor/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022/07/13/tutor/</guid>
+      <description>突然就理解孔子的弟子为何要编写《论语》了，老师思想太深刻，一时半会参不透呀，或者是有道理记不住呀，那就写下来吧。 灵魂一击 简单 $+$ 重复$=$成功</description>
+    </item>
+    
+  </channel>
+</rss>
