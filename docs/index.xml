@@ -2,71 +2,142 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>湖南大学附属中学 on 2023班</title>
-    <link>https://tang-jay.github.io/</link>
+    <link>https://tang-jay.github.io/2023class/</link>
     <description>Recent content in 湖南大学附属中学 on 2023班</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tang-jay.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tang-jay.github.io/2023class/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typora&#43;Github&#43;Picgo</title>
-      <link>https://tang-jay.github.io/post/2022/08/02/picgo/</link>
+      <link>https://tang-jay.github.io/2023class/post/2022/08/02/picgo/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/post/2022/08/02/picgo/</guid>
+      <guid>https://tang-jay.github.io/2023class/post/2022/08/02/picgo/</guid>
       <description>记录用图成功！ 网络路径 由于部分浏览器无法访问raw.githubusercontent.com，从而看不到图片有显示(比如，我在我的电脑看得</description>
     </item>
     
     <item>
       <title>发哥惊艳亮相</title>
-      <link>https://tang-jay.github.io/post/2022/07/28/tanf/</link>
+      <link>https://tang-jay.github.io/2023class/post/2022/07/28/tanf/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/post/2022/07/28/tanf/</guid>
+      <guid>https://tang-jay.github.io/2023class/post/2022/07/28/tanf/</guid>
       <description>今天看到发哥少有的QQ动态 当动态还在加载时 我在猜测 发哥会写什么 我猜是一张打卡 打卡时长很长的冥想🧘‍♂️ 然而我猜错了 确实是一张打卡 打卡7月跑步</description>
     </item>
     
     <item>
       <title>论文英语</title>
-      <link>https://tang-jay.github.io/post/2022/07/26/paper_skill/</link>
+      <link>https://tang-jay.github.io/2023class/post/2022/07/26/paper_skill/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/post/2022/07/26/paper_skill/</guid>
+      <guid>https://tang-jay.github.io/2023class/post/2022/07/26/paper_skill/</guid>
       <description>原则 公式简洁 突出亮点（人无你有） 摘要 提出问题 The ** is a ** problem. It aims to do sth. Aim to do sth ** has been widely used in many problems, but there are few relevant studies on **. 传统方法 Traditional methods have difficulty ensuring sth when **. Since (reason). It makes the</description>
     </item>
     
     <item>
       <title>第一篇</title>
-      <link>https://tang-jay.github.io/post/2022/07/18/tutor/</link>
+      <link>https://tang-jay.github.io/2023class/post/2022/07/18/tutor/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/post/2022/07/18/tutor/</guid>
+      <guid>https://tang-jay.github.io/2023class/post/2022/07/18/tutor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>影单</title>
-      <link>https://tang-jay.github.io/post/2022/07/13/films/</link>
+      <link>https://tang-jay.github.io/2023class/post/2022/07/13/films/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/post/2022/07/13/films/</guid>
+      <guid>https://tang-jay.github.io/2023class/post/2022/07/13/films/</guid>
       <description>电影 《阿甘正传》✔️ 《我不是药神》✔️ 《让子弹飞》 《肖申克的救赎》✔️ 《阳光灿烂的日子》✔️ 王朔 《三傻大闹宝莱坞》✔️ 《美丽人生》✔️ 《楚门</description>
     </item>
     
     <item>
       <title>秦导语录</title>
-      <link>https://tang-jay.github.io/post/2022/07/13/tutor/</link>
+      <link>https://tang-jay.github.io/2023class/post/2022/07/13/tutor/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/post/2022/07/13/tutor/</guid>
+      <guid>https://tang-jay.github.io/2023class/post/2022/07/13/tutor/</guid>
       <description>突然就理解孔子的弟子为何要编写《论语》了，老师思想太深刻，一时半会参不透呀，或者是有道理记不住呀，那就写下来吧。 灵魂一击 简单 $+$ 重复$=$成功</description>
     </item>
     
     <item>
+      <title>A Plain Markdown Post</title>
+      <link>https://tang-jay.github.io/2023class/post/2017/02/14/a-plain-markdown-post/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tang-jay.github.io/2023class/post/2017/02/14/a-plain-markdown-post/</guid>
+      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section. To know more about the Hugo XMag theme, please read the About page.
+1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
+    </item>
+    
+    <item>
+      <title>Jeff Leek can do zero-fold cross-validation</title>
+      <link>https://tang-jay.github.io/2023class/post/2015/07/28/jeff-leek-can-do-zero-fold-cross-validation/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://tang-jay.github.io/2023class/post/2015/07/28/jeff-leek-can-do-zero-fold-cross-validation/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Quisque mattis volutpat lorem vitae feugiat.</description>
+    </item>
+    
+    <item>
+      <title>Correlation implies whatever Jeff Leek tells it to imply</title>
+      <link>https://tang-jay.github.io/2023class/post/2015/07/27/correlation-implies-whatever-jeff-leek-tells-it-to-imply/</link>
+      <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://tang-jay.github.io/2023class/post/2015/07/27/correlation-implies-whatever-jeff-leek-tells-it-to-imply/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Quisque mattis volutpat lorem vitae feugiat.</description>
+    </item>
+    
+    <item>
+      <title>Jeff Leek counted to infinity. Twice.</title>
+      <link>https://tang-jay.github.io/2023class/post/2015/07/26/jeff-leek-counted-to-infinity.-twice./</link>
+      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://tang-jay.github.io/2023class/post/2015/07/26/jeff-leek-counted-to-infinity.-twice./</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Quisque mattis volutpat lorem vitae feugiat.</description>
+    </item>
+    
+    <item>
+      <title>Git commits to Jeff Leek</title>
+      <link>https://tang-jay.github.io/2023class/post/2015/07/25/git-commits-to-jeff-leek/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://tang-jay.github.io/2023class/post/2015/07/25/git-commits-to-jeff-leek/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Quisque mattis volutpat lorem vitae feugiat.</description>
+    </item>
+    
+    <item>
+      <title>Jeff Leek always obtains unbiased estimators</title>
+      <link>https://tang-jay.github.io/2023class/post/2015/07/24/jeff-leek-always-obtains-unbiased-estimators/</link>
+      <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://tang-jay.github.io/2023class/post/2015/07/24/jeff-leek-always-obtains-unbiased-estimators/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Quisque mattis volutpat lorem vitae feugiat.</description>
+    </item>
+    
+    <item>
+      <title>Jeff Leek is the Uniformly Most Powerful Jeff</title>
+      <link>https://tang-jay.github.io/2023class/post/2015/07/23/jeff-leek-is-the-uniformly-most-powerful-jeff/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://tang-jay.github.io/2023class/post/2015/07/23/jeff-leek-is-the-uniformly-most-powerful-jeff/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Quisque mattis volutpat lorem vitae feugiat.</description>
+    </item>
+    
+    <item>
       <title>致同学们的一封信</title>
-      <link>https://tang-jay.github.io/about/</link>
+      <link>https://tang-jay.github.io/2023class/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tang-jay.github.io/about/</guid>
+      <guid>https://tang-jay.github.io/2023class/about/</guid>
       <description>亲爱的同学们： 你们好！ 见到你们真好！很荣幸成为大家的班主任。</description>
     </item>
     
