@@ -18,19 +18,19 @@ permalinks:
 menu:
   main:
     - name: 主页
-      url: /
+      url: 
       weight: 1
-    - name: 关于
-      url: /about/
+    - name: 寄语
+      url: about/
       weight: 2
     - name: 目录
-      url: /categories/
+      url: categories/
       weight: 3
     - name: 标签
-      url: /tags/
+      url: tags/
       weight: 4
     - name: 订阅
-      url: /index.xml
+      url: index.xml
 
 params:
   description: "A website built through Hugo and blogdown."

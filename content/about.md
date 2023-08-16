@@ -5,9 +5,8 @@ author: 班主任
 
 亲爱的同学们：
 
-<div style="text-indent:2em;">你们好！
-
-见到你们真好！很荣幸成为大家的班主任。
+<div style="text-indent:2em;">
+你们好！见到你们很高兴，很荣幸成为大家的班主任。
 
 </div>
 
