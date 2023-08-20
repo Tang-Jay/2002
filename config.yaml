@@ -1,6 +1,6 @@
-baseurl: "https://tang-jay.github.io/2023class"
+baseurl: "https://tang-jay.github.io/2002"
 languageCode: "en-us"
-title: "2023班"
+title: "2002班"
 theme: "hugo-xmag"
 publishDir: "docs"
 googleAnalytics: ""
@@ -29,8 +29,6 @@ menu:
     - name: 标签
       url: tags/
       weight: 4
-    - name: 订阅
-      url: index.xml
 
 params:
   description: "A website built through Hugo and blogdown."
