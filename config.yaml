@@ -1,6 +1,6 @@
-baseurl: "https://tang-jay.github.io/2002"
+baseurl: "https://tang-jay.github.io/C2302"
 languageCode: "en-us"
-title: "2002班"
+title: "C2302班"
 theme: "hugo-xmag"
 publishDir: "docs"
 googleAnalytics: ""
